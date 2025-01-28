@@ -1,0 +1,10 @@
+npx create-react-app weather-app
+
+npm install axios dotenv
+
+cd weather-app
+
+create .env , create openweathermapapi account to get api key , add key in .env 
+
+# mail - mawaro7748@bmixr.com
+# pwd - GHyi%757Tu
